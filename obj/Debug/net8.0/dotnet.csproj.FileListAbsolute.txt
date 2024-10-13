@@ -1,0 +1,14 @@
+/Users/daniilevtuhov/Desktop/dotnet/bin/Debug/net8.0/dotnet
+/Users/daniilevtuhov/Desktop/dotnet/bin/Debug/net8.0/dotnet.deps.json
+/Users/daniilevtuhov/Desktop/dotnet/bin/Debug/net8.0/dotnet.runtimeconfig.json
+/Users/daniilevtuhov/Desktop/dotnet/bin/Debug/net8.0/dotnet.dll
+/Users/daniilevtuhov/Desktop/dotnet/bin/Debug/net8.0/dotnet.pdb
+/Users/daniilevtuhov/Desktop/dotnet/obj/Debug/net8.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniilevtuhov/Desktop/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfoInputs.cache
+/Users/daniilevtuhov/Desktop/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfo.cs
+/Users/daniilevtuhov/Desktop/dotnet/obj/Debug/net8.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/daniilevtuhov/Desktop/dotnet/obj/Debug/net8.0/dotnet.dll
+/Users/daniilevtuhov/Desktop/dotnet/obj/Debug/net8.0/refint/dotnet.dll
+/Users/daniilevtuhov/Desktop/dotnet/obj/Debug/net8.0/dotnet.pdb
+/Users/daniilevtuhov/Desktop/dotnet/obj/Debug/net8.0/dotnet.genruntimeconfig.cache
+/Users/daniilevtuhov/Desktop/dotnet/obj/Debug/net8.0/ref/dotnet.dll
